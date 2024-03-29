@@ -14,8 +14,7 @@
 <img aling="center" alt="css3" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendon&show_icons=true&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon1704&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 Apaixonado por tecnologia, e por construir coisas através da programação.
