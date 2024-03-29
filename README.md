@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon1704&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
-Apaixonado por tecnologia, e por construir coisas através da programação.
+Movido pela paixão pela tecnologia e pela arte de construir através da programação
 
 ## Contato
 <br/>E-mail: Brendon.barbosa02@gmail.com<br/>
